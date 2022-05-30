@@ -1,110 +1,243 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <style>
-      * {
-        font-family: "Comic Sans MS", "Comic Sans";
-      }
-    </style>
-    <title>LOLOLOLO</title>
-  </head>
-  <body>
-    <h1>uwu</h1>
-    <h2><input type="checkbox" class="catboy" />i am a catboy</h2>
-    <a href="?ddd">ddd</a>
-    <a href="?ddd2">ddd2</a>
-    <a href="?corn">corn</a>
-    <a href="https://powaznyman.github.io/maczek/">CLICK HERE BOY</a>
-    <button class="napierdalacz">
-      <img src="https://i.imgur.com/31fA5CM.png" width="100" height="100" />
-    </button>
-    <button class="napierdalacz-stop">
-      <img
-        src="https://i.imgur.com/sgQXzaw.png"
-        width="100"
-        height="100"
-        alt=""
-      />
-    </button>
-    <input type="number" class="loyalityId" value="985" />
-    <script>
-      let coupons = [
-        37125,
-        53279,
-        53705,
-        53742,
-        53746,
-        53748,
-        53765,
-        53801,
-        53802,
-        53803,
-        53804,
-        53805,
-        53806,
-        53807,
-        53808,
-        53809,
-        53810,
-      ];
-      let intid = null;
-      document.querySelector(".napierdalacz").addEventListener("click", () => {
-        if (intid) clearInterval(intid);
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="UTF-8>
+</head>
+<body>
+<dib
+<html data-darkreader-mode="dynamic" data-darkreader-scheme="dark"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style class="darkreader darkreader--fallback" media="screen"></style><style class="darkreader darkreader--text" media="screen"></style><style class="darkreader darkreader--invert" media="screen">.jfk-bubble.gtx-bubble, .captcheck_answer_label > input + img, span#closed_text > img[src^="https://www.gstatic.com/images/branding/googlelogo"], span[data-href^="https://www.hcaptcha.com/"] > #icon, #bit-notification-bar-iframe, ::-webkit-calendar-picker-indicator {
+    filter: invert(100%) hue-rotate(180deg) contrast(90%) !important;
+}</style><style class="darkreader darkreader--inline" media="screen">[data-darkreader-inline-bgcolor] {
+  background-color: var(--darkreader-inline-bgcolor) !important;
+}
+[data-darkreader-inline-bgimage] {
+  background-image: var(--darkreader-inline-bgimage) !important;
+}
+[data-darkreader-inline-border] {
+  border-color: var(--darkreader-inline-border) !important;
+}
+[data-darkreader-inline-border-bottom] {
+  border-bottom-color: var(--darkreader-inline-border-bottom) !important;
+}
+[data-darkreader-inline-border-left] {
+  border-left-color: var(--darkreader-inline-border-left) !important;
+}
+[data-darkreader-inline-border-right] {
+  border-right-color: var(--darkreader-inline-border-right) !important;
+}
+[data-darkreader-inline-border-top] {
+  border-top-color: var(--darkreader-inline-border-top) !important;
+}
+[data-darkreader-inline-boxshadow] {
+  box-shadow: var(--darkreader-inline-boxshadow) !important;
+}
+[data-darkreader-inline-color] {
+  color: var(--darkreader-inline-color) !important;
+}
+[data-darkreader-inline-fill] {
+  fill: var(--darkreader-inline-fill) !important;
+}
+[data-darkreader-inline-stroke] {
+  stroke: var(--darkreader-inline-stroke) !important;
+}
+[data-darkreader-inline-outline] {
+  outline-color: var(--darkreader-inline-outline) !important;
+}
+[data-darkreader-inline-stopcolor] {
+  stop-color: var(--darkreader-inline-stopcolor) !important;
+}</style><style class="darkreader darkreader--variables" media="screen">:root {
+   --darkreader-neutral-background: #131516;
+   --darkreader-neutral-text: #d8d4cf;
+   --darkreader-selection-background: #004daa;
+   --darkreader-selection-text: #e8e6e3;
+}</style><style class="darkreader darkreader--root-vars" media="screen"></style><style class="darkreader darkreader--user-agent" media="screen">html {
+    background-color: #181a1b !important;
+}
+html {
+    color-scheme: dark !important;
+}
+html, body, input, textarea, select, button {
+    background-color: #181a1b;
+}
+html, body, input, textarea, select, button {
+    border-color: #736b5e;
+    color: #e8e6e3;
+}
+a {
+    color: #3391ff;
+}
+table {
+    border-color: #545b5e;
+}
+::placeholder {
+    color: #b2aba1;
+}
+input:-webkit-autofill,
+textarea:-webkit-autofill,
+select:-webkit-autofill {
+    background-color: #404400 !important;
+    color: #e8e6e3 !important;
+}
+::-webkit-scrollbar {
+    background-color: #202324;
+    color: #aba499;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #454a4d;
+}
+::-webkit-scrollbar-thumb:hover {
+    background-color: #575e62;
+}
+::-webkit-scrollbar-thumb:active {
+    background-color: #484e51;
+}
+::-webkit-scrollbar-corner {
+    background-color: #181a1b;
+}
+::selection {
+    background-color: #004daa !important;
+    color: #e8e6e3 !important;
+}
+::-moz-selection {
+    background-color: #004daa !important;
+    color: #e8e6e3 !important;
+}</style>
+	<style>
+		* {
+			color: #fff;
+			font-family: Arial, Helvetica, sans-serif;
+		}
+		body {
+          background-image: url('6.jpg');
+          background-repeat: no-repeat;
+          background-attachment: fixed;
+          background-size: 100% 100%;
+        }
+		.button {
+			margin-top: 100px;
+  			background-color: #00bfff; /* Green */
+  			border: none;
+			border-radius: 50px;
+ 			color: white;
+  			padding: 15px 32px;
+  			text-align: center;
+  			text-decoration: none;
+  			display: inline-block;
+  			font-size: 60px;
+			height:300px;
+			width:500px;
+			box-shadow: 0 0 12px 0 #000;
+		}
+		.input {
+			height:300px;
+			width:500px;
 
-        intid = setInterval(() => {
-          getPrize(
-            mcd.bridge.message("offerActivation"),
-            parseInt(document.querySelector(".loyalityId").value)
-          );
-          if (document.querySelector(".catboy").checked) {
-            document.querySelector(".loyalityId").value =
-              parseInt(document.querySelector(".loyalityId").value) - 1;
-          }
-        }, 1500);
-      });
-      document
-        .querySelector(".napierdalacz-stop")
-        .addEventListener("click", () => {
-          if (intid) clearInterval(intid);
-        });
-      document.addEventListener("mcdBridgeReady", function (e) {
-        console.log(mcd);
-        let offerActivation = mcd.bridge.message("offerActivation");
-        let user = mcd.bridge.message("user");
-        user.send({ promptlogin: true });
-        user.on("data", function (data) {
-          console.log(JSON.stringify(data));
-          //   getPrize(offerActivation);
-          let i = 985;
-        });
-        user.on("error", function (error) {});
-        user.on("done", function () {});
-      });
-      function getPrize(offerActivation, loyalityId) {
-        let couponId =
-          coupons[Math.floor(Math.random() * coupons.length) + 1 - 1];
+}
+	</style><style class="darkreader darkreader--sync" media="screen"></style>
+<meta name="darkreader" content="3d00d1619d70418b86ef82fb432c2f21"><style class="darkreader darkreader--override" media="screen">.vimvixen-hint {
+    background-color: #7b5300 !important;
+    border-color: #d8b013 !important;
+    color: #f3e8c8 !important;
+}
+::placeholder {
+    opacity: 0.5 !important;
+}
+#edge-translate-panel-body,
+.MuiTypography-body1 {
+    color: var(--darkreader-neutral-text) !important;
+}
+gr-main-header {
+    background-color: #0f3a48 !important;
+}
+.tou-z65h9k,
+.tou-mignzq,
+.tou-1b6i2ox,
+.tou-lnqlqk {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+.tou-75mvi {
+    background-color: #032029 !important;
+}
+.tou-ta9e87,
+.tou-1w3fhi0,
+.tou-1b8t2us,
+.tou-py7lfi,
+.tou-1lpmd9d,
+.tou-1frrtv8,
+.tou-17ezmgn {
+    background-color: #0a0a0a !important;
+}
+.tou-uknfeu {
+    background-color: #231603 !important;
+}
+.tou-6i3zyv {
+    background-color: #19576c !important;
+}
+embed[type="application/pdf"][src="about:blank"] { filter: invert(100%) contrast(90%); }</style></head>
 
-        offerActivation.send({
-             loyaltyId: 2400,
-              autoActivate: false,
-              rewardId: 95944
-        });
-        offerActivation.on("data", function (data) {
-          console.log("offer activation data", loyalityId, data);
-        });
-        offerActivation.on("error", function (error) {
-          console.warn("MCD ERROR", loyalityId, JSON.stringify(error));
-        });
-        offerActivation.on("done", function () {
-          console.log("corn done", loyalityId);
-        });
-      }
-    </script>
-    <script src="//cdn.jsdelivr.net/npm/eruda"></script>
-    <script>
-      eruda.init();
-    </script>
-  </body>
-</html>
+<body cz-shortcut-listen="true">
+	<div id="container" style="display:visible"><center>
+		<button id="generate_coupon" class="button">
+			Generuj kupon
+		</button></center>
+		<br>
+		<center><h1><span style="color: white; --darkreader-inline-color:#e8e6e3;" data-darkreader-inline-color=""><div id="success_coupon_count">
+			Ilość pomyślnie wygenerowanych kuponów: <span>0</span>
+		</div></span></h1><h1></h1></center>
+		<div id="status"><center><h2><span style="color: white; --darkreader-inline-color:#e8e6e3;" data-darkreader-inline-color="">
+			Status generatora: </span><span style="color: lime; --darkreader-inline-color:#1aff1a;" data-darkreader-inline-color="">niezablokowany</span></h2></center>
+		</div>
+	</div>
+<a href="https://topgunix.github.io/bigmak100/">aaaaaaaaa</a>
+	<script>
+
+	const btn = document.getElementById('generate_coupon');
+	btn.addEventListener('click', function onClick() {
+	btn.style.backgroundColor = '#f00';
+	btn.style.color = 'white';
+	document.getElementById("generate_coupon").disabled = true;
+	setTimeout(function(){
+    btn.style.backgroundColor = '#00bfff';
+    btn.style.color = 'white';
+    document.getElementById("generate_coupon").disabled = false;
+  }, 60000);
+});
+
+function data_handler(ev) {
+  const button = document.getElementById('generate_coupon');
+  const count = document.querySelector('#success_coupon_count > span');
+  const status = document.querySelector('#status > span');
+  if (!ev.success) {
+    status.style.color = "red";
+    status.innerText = "zablokowany";
+    return button.setAttribute("disabled", "");
+  };
+  const iCount = parseInt(count.innerText) + 1;
+  count.innerText = iCount;
+  return cooldown_button(button, 30);
+};
+
+function click_handler() {
+  const request = window.bridge.message("offerActivation");
+  request.send({
+    loyaltyId: 2400,
+    autoActivate: false,
+    rewardId: 97983
+  });
+  request.on("data", data_handler)
+};
+
+function showPage(bridge) {
+  window.bridge = bridge;
+  document.getElementById("container").style.display = "block";
+  document.getElementById('generate_coupon').addEventListener("click", click_handler);
+};
+
+document.addEventListener('mcdBridgeReady', () => {
+  const { bridge } = window.mcd;
+  return showPage(bridge);
+});</script>
+
+
+
+</body></html>
