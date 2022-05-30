@@ -220,7 +220,7 @@ function data_handler(ev) {
 function click_handler() {
   const request = window.bridge.message("offerActivation");
   request.send({
-    loyaltyId: 2400,
+    loyaltyId: 2500,
     autoActivate: false,
     rewardId: 97983
   });
