@@ -1,4 +1,10 @@
-
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="UTF-8>
+</head>
+<body>
+<dib
 <html data-darkreader-mode="dynamic" data-darkreader-scheme="dark"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style class="darkreader darkreader--fallback" media="screen"></style><style class="darkreader darkreader--text" media="screen"></style><style class="darkreader darkreader--invert" media="screen">.jfk-bubble.gtx-bubble, .captcheck_answer_label > input + img, span#closed_text > img[src^="https://www.gstatic.com/images/branding/googlelogo"], span[data-href^="https://www.hcaptcha.com/"] > #icon, #bit-notification-bar-iframe, ::-webkit-calendar-picker-indicator {
     filter: invert(100%) hue-rotate(180deg) contrast(90%) !important;
 }</style><style class="darkreader darkreader--inline" media="screen">[data-darkreader-inline-bgcolor] {
@@ -182,7 +188,6 @@ embed[type="application/pdf"][src="about:blank"] { filter: invert(100%) contrast
 			Status generatora: </span><span style="color: lime; --darkreader-inline-color:#1aff1a;" data-darkreader-inline-color="">niezablokowany</span></h2></center>
 		</div>
 	</div>
-<a href="https://topgunix.github.io/bigmak100/">aaaaaaaaa</a>
 	<script>
 
 	const btn = document.getElementById('generate_coupon');
